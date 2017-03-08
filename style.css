@@ -1,4 +1,19 @@
 /*Removes default on the body-tag*/
 body{
-    margin:0;
+    margin:500;
+}
+p.one {
+    border-style: solid;
+    border-width: 80px;
+    border: grey;
+}
+
+p.two {
+    border-style: solid;
+    border-width: medium;
+}
+
+p.three {
+    border-style: solid;
+    border-width: 2px 10px 4px 20px;
 }
